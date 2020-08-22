@@ -6,6 +6,6 @@ Install virtual environment
 
 <pre> python -m venv env </pre>
 
--install django
+- Install django
 
 <pre> pip install django </pre>
